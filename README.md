@@ -23,6 +23,19 @@ Hay 12 lecciones para ayudarte a aprender Ciencia de Datos en Python utilizando 
 11. [Ecuaciones diferenciales](https://github.com/APMonitor/ciencia_de_datos/blob/main/11.%20Ecuaciones_diferenciales.ipynb)
 12. [Series de tiempo](https://github.com/APMonitor/ciencia_de_datos/blob/main/12.%20Series_de_tiempo.ipynb)
 
+### Encuesta
+
+Este trabajo es parte de una investigación que busca cuantificar el impacto de integrar Hardware (TCLab) con Software (Programación en Python).
+Por favor ayúdanos completando la siguiente **Encuesta de INICIO del curso**.
+
+[![Inicio](https://img1.wsimg.com/isteam/ip/aab852a2-7b1f-49c0-92af-9206f2ec6a75/Inicio.png/:/rs=w:1440,h:1440)](https://forms.office.com/Pages/ResponsePage.aspx?id=r4yvt9iDREaFrjF8VFIjwUHkKiCq1wxFstxAwkoFiilUQVZDTk5MM0ZXOTdONjc1SFlZVTQ3VlJMNi4u)
+
+Una vez que finalices el curso, también nos gustaría saber que tal te pareció.
+
+Por favor ayúdanos completando la siguiente **Encuesta de FINAL del curso**.
+
+[![Final](https://img1.wsimg.com/isteam/ip/aab852a2-7b1f-49c0-92af-9206f2ec6a75/Final.png/:/rs=w:1440,h:1440)](https://forms.office.com/Pages/ResponsePage.aspx?id=r4yvt9iDREaFrjF8VFIjwUHkKiCq1wxFstxAwkoFiilUOExRVkVMWlZERVcyWlpUU1EyTFg4T1Q3WC4u)
+
 ### Instalar Python
 
 [Descargar e instalar Anaconda para utilizar Jupyter](https://docs.anaconda.com/anaconda/install/) o [mira este video para instalar Anaconda](https://www.youtube.com/watch?v=3EXB38O0ni0&t=6s).
