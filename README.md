@@ -26,13 +26,13 @@ Hay 12 lecciones para ayudarte a aprender Ciencia de Datos en Python utilizando 
 ### Encuesta
 
 Este trabajo es parte de una investigación que busca cuantificar el impacto de integrar Hardware (TCLab) con Software (Programación en Python).
-Por favor ayúdanos completando la siguiente **Encuesta de INICIO del curso**.
+Por favor ayúdanos completando la siguiente **Encuesta de INICIO de Curso**.
 
 [![Inicio](https://img1.wsimg.com/isteam/ip/aab852a2-7b1f-49c0-92af-9206f2ec6a75/Inicio.png/:/rs=w:1440,h:1440)](https://forms.office.com/Pages/ResponsePage.aspx?id=r4yvt9iDREaFrjF8VFIjwUHkKiCq1wxFstxAwkoFiilUQVZDTk5MM0ZXOTdONjc1SFlZVTQ3VlJMNi4u)
 
 Una vez que finalices el curso, también nos gustaría saber que tal te pareció.
 
-Por favor ayúdanos completando la siguiente **Encuesta de FINAL del curso**.
+Por favor ayúdanos completando la siguiente **Encuesta de FINAL de Curso**.
 
 [![Final](https://img1.wsimg.com/isteam/ip/aab852a2-7b1f-49c0-92af-9206f2ec6a75/Final.png/:/rs=w:1440,h:1440)](https://forms.office.com/Pages/ResponsePage.aspx?id=r4yvt9iDREaFrjF8VFIjwUHkKiCq1wxFstxAwkoFiilUOExRVkVMWlZERVcyWlpUU1EyTFg4T1Q3WC4u)
 
