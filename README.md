@@ -8,20 +8,20 @@ Una de las mejores formas de iniciar o estudiar un lenguaje de programación es 
 
 ### Contenidos
 
-Hay 12 lecciones para ayudarte a aprender Ciencia de Datos en Python utilizando el TCLab. Lo primero es [instalar Anaconda](https://www.youtube.com/watch?v=3EXB38O0ni0&t=6s) para abrir y ejecutar los archivos de IPython en Jupyter notebook. Se puede utilizar cualquier plataforma que ejecute código en Python (IDLE (python.org), Spyder, PyCharm, y otras) pero Jupyter notebook es requerido para abrir y ejecutar el IPython notebook con archivos (`.ipynb`). Todos los archivos de IPython notebook (`.ipynb`) en idioma castellano se pueden [descargar desde este link](https://github.com/APMonitor/data_science/archive/master.zip). No olvides descomprimir desde la carpeta (extraer los archivos) y copiarlos en una carpeta de tu elección antes de empezar.
+Hay 12 lecciones para ayudarte a aprender Ciencia de Datos en Python utilizando el TCLab. Lo primero es [instalar Anaconda](https://www.youtube.com/watch?v=3EXB38O0ni0&t=6s) para abrir y ejecutar los archivos de IPython en Jupyter notebook. Se puede utilizar cualquier plataforma que ejecute código en Python (IDLE (python.org), Spyder, PyCharm, y otras) pero Jupyter notebook es requerido para abrir y ejecutar el IPython notebook con archivos (`.ipynb`). Todos los archivos de IPython notebook (`.ipynb`) en idioma castellano se pueden [descargar desde este link](https://github.com/APMonitor/ciencia_de_datos/archive/refs/heads/main.zip). No olvides descomprimir desde la carpeta (extraer los archivos) y copiarlos en una carpeta de tu elección antes de empezar.
 
-1. [Resumen](https://github.com/APMonitor/data_science/blob/master/01.%20Overview.ipynb)
-2. [Importar y Exportar datos](https://github.com/APMonitor/data_science/blob/master/02.%20Import_Export.ipynb)
-3. [Análisis de datos](https://github.com/APMonitor/data_science/blob/master/03.%20Analyze.ipynb)
-4. [Visualización de datos](https://github.com/APMonitor/data_science/blob/master/04.%20Visualize.ipynb)
-5. [Preparación de datos (limpiar, escalar y dividir)](https://github.com/APMonitor/data_science/blob/master/05.%20Prepare_data.ipynb)
-6. [Regresión](https://github.com/APMonitor/data_science/blob/master/06.%20Regression.ipynb)
-7. [Atributos](https://github.com/APMonitor/data_science/blob/master/07.%20Features.ipynb)
-8. [Clasificación](https://github.com/APMonitor/data_science/blob/master/08.%20Classification.ipynb)
-9. [Interpolación](https://github.com/APMonitor/data_science/blob/master/09.%20Interpolation.ipynb)
-10. [Resolución de ecuaciones](https://github.com/APMonitor/data_science/blob/master/10.%20Solve_Equations.ipynb)
-11. [Ecuaciones diferenciales](https://github.com/APMonitor/data_science/blob/master/11.%20Differential_Equations.ipynb)
-12. [Series de tiempo](https://github.com/APMonitor/data_science/blob/master/12.%20Time_Series.ipynb)
+1. [Resumen](https://github.com/APMonitor/ciencia_de_datos/blob/main/01.%20Resumen.ipynb)
+2. [Importar y Exportar datos](https://github.com/APMonitor/ciencia_de_datos/blob/main/02.%20Importar_Exportar.ipynb)
+3. [Análisis de datos](https://github.com/APMonitor/ciencia_de_datos/blob/main/03.%20Analizar_data.ipynb)
+4. [Visualización de datos](https://github.com/APMonitor/ciencia_de_datos/blob/main/04.%20Visualizar_data.ipynb)
+5. [Preparación de datos (limpiar, escalar y dividir)](https://github.com/APMonitor/ciencia_de_datos/blob/main/05.%20Preparar_data.ipynb)
+6. [Regresión](https://github.com/APMonitor/ciencia_de_datos/blob/main/06.%20Regresi%C3%B3n.ipynb)
+7. [Atributos](https://github.com/APMonitor/ciencia_de_datos/blob/main/07.%20Atributos.ipynb)
+8. [Clasificación](https://github.com/APMonitor/ciencia_de_datos/blob/main/08.%20Clasificaci%C3%B3n.ipynb)
+9. [Interpolación](https://github.com/APMonitor/ciencia_de_datos/blob/main/09.%20Interpolaci%C3%B3n.ipynb)
+10. [Resolución de ecuaciones](https://github.com/APMonitor/ciencia_de_datos/blob/main/10.%20Resolver_ecuaciones.ipynb)
+11. [Ecuaciones diferenciales](https://github.com/APMonitor/ciencia_de_datos/blob/main/11.%20Ecuaciones_diferenciales.ipynb)
+12. [Series de tiempo](https://github.com/APMonitor/ciencia_de_datos/blob/main/12.%20Series_de_tiempo.ipynb)
 
 ### Instalar Python
 
